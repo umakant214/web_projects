@@ -1,0 +1,25 @@
+:root{
+    --bcolor:#131313;
+    --gcolor:#b1b1b1;
+    --lbcolor:#1c1c1c;
+
+}
+.bg-color{
+    background-color: var(--bcolor);
+}
+.bg2-color{
+    background-color: var(--lbcolor);
+}
+.text-color{
+    color: var(--gcolor) !important;
+}
+.slider img{
+    height: 500px;
+}
+.ncard img{
+    height: 300px;
+}
+.about{
+    height: 60px;
+    width: 60px;
+}
